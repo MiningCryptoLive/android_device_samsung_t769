@@ -86,3 +86,10 @@ persist.radio.snapshot_disabled=1
 # tweaks
 persist.sys.ui.hw=1
 dalvik.vm.verify_bytecode=false
+
+# hardware info
+ro.device.cpu=1.5 GHz dual-core Qualcomm APQ8060 (S3) Snapdragon
+ro.device.gpu=Qualcomm Adreno 220
+ro.device.rear_cam=5 MP
+ro.device.front_cam=1.3 MP
+ro.device.screen_res=480x800
